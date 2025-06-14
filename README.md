@@ -21,3 +21,6 @@ STM32 Template for new project creation
 - Reloc project files to Proj/ subdirectory
 
 - Describe & leverage IOC to create stm32_proj reference project
+
+- Method to deploy & debug on this multi-core experience
+
